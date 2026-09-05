@@ -1,10 +1,12 @@
 * {
     border-width: 5px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .links {
     background-color: rgba(128, 212, 186, 20%);
     border: 2px solid;
+    font-size: 20px;
 
 }
 
@@ -13,6 +15,7 @@ h1 {
     border: 3px solid black;
     padding: 5px 20px;
 }
+
 .beschrijving,
 .ingrediënten,
 .bereiding {
